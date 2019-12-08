@@ -56,7 +56,7 @@ The textbooks in the drawer were all torn off ...
 
 The boy huddled in the corridor left in science
 
-"what a strange person"
+"Werido……"
 
 <br>
 
@@ -103,7 +103,7 @@ Go back to my seat.
 
 There is a girl squatting on the ground crying.
 
-I try to wipe her tears, but can't feel her.
+I try to wipe her tears, but can't touch her.
 
 She's sorting the torn pages
 
@@ -127,13 +127,13 @@ Are those.....mine?
 
 为什么要道歉，我们只是同桌
 
-"I'm sorry.......I.I...I cannot stop them....."
+"Sorry.......I.I...I cannot stop them....."
 
 "You owe me no apology"
 
-"I...I"
+"But...I...I..."
 
-"I'm sorry"
+"I'm sorry..."
 
 She repeats it again and again.
 
@@ -165,7 +165,7 @@ I'm neither counting on nor in need of her understanding
 
 ......
 
-But she did
+But she still chose to do it...
 
 <br>
 
