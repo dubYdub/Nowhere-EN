@@ -4,7 +4,7 @@
 
 Where ... am I?
 
-
+<br>
 
 **Clue one：**
 
@@ -16,6 +16,7 @@ Where ... am I?
 
 “Stop fighting... mom ...”
 
+<br>
 
 
 **Clue two：**
@@ -28,6 +29,7 @@ Where ... am I?
 
 "Just kids' stuff, no worries"
 
+<br>
 
 
 **Clue three**
@@ -44,6 +46,7 @@ Something is falling apart
 
 Something is borken
 
+<br>
 
 
 **Clue four**
@@ -60,6 +63,7 @@ My friends......
 
 My family......
 
+<br>
 
 
 **Ending**
