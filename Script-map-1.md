@@ -22,7 +22,7 @@ Where ... am I?
 
 **Clue three**
 
-“They're fighting, mom's crying, I know”
+They're fighting, mom's crying, I know
 
 Something is falling apart
 
@@ -32,21 +32,21 @@ Something is borken
 
 **Clue four**
 
-“It seems I forgot something”
+It seems I forgot something
 
-”My friends......“
+My friends......
 
-"My family......"
+My family......
 
 
 
 **Ending**
 
-“Are they crying around me?”
+Are they crying around me?
 
-"But why"
+But why
 
-"I thought they do not care me, at all......"
+I thought they do not care me, at all......
 
 
 
