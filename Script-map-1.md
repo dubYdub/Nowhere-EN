@@ -31,6 +31,7 @@ Where ... am I?
 
 
 **Clue three**
+
 我听见他们在哭，在争吵
 
  有什么东西碎掉
@@ -46,6 +47,7 @@ Something is borken
 
 
 **Clue four**
+
  我好像**遗忘**了什么	
 
  我的朋友......
@@ -61,6 +63,7 @@ My family......
 
 
 **Ending**
+
 他们是在为我而哭吗？
 
  为什么
