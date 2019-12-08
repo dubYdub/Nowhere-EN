@@ -278,5 +278,13 @@ He stand up, look flatly into the sky.
 
 "NO!!!!!!!!!"
 
-He fall like a leaf.
+He fall like a lonely leaf.
+
+Eyes are widely opening,but I can't stop it...
+
+Clouds seem to tear,and the sunset is bloody.
+
+Just like a burning fireball,the sun devours him……
+
+I'm gradually in dark……
 
