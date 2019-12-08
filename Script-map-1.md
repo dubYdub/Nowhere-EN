@@ -8,7 +8,7 @@ Where ... am I?
 
 “Cause you leave me everything, everything !”
 
-“Stop fighting mom”
+“Stop fighting... mom ...”
 
 
 
@@ -22,7 +22,7 @@ Where ... am I?
 
 **Clue three**
 
-They're fighting, mom's crying, I know
+They're fighting again, I know
 
 Something is falling apart
 
