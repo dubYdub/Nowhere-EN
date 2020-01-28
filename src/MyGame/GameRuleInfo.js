@@ -70,7 +70,7 @@ GameRuleInfo.prototype.update = function () {
     
     this.mCamera.update();  // for smoother camera movements
            
-    if (gEngine.Input.isButtonPressed(gEngine.Input.mouseButton.Middle)) {
+    if (gEngine.Input.isButtonPressed(gEngine.Input.keys.A)) {
             gEngine.GameLoop.stop();   
     }
    
