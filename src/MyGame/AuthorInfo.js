@@ -68,7 +68,7 @@ AuthorInfo.prototype.update = function () {
     
     this.mCamera.update();  // for smoother camera movements
            
-    if (gEngine.Input.isButtonPressed(gEngine.Input.mouseButton.Middle)) {
+    if (gEngine.Input.isKeyClicked(gEngine.Input.keys.Enter)) {
         gEngine.GameLoop.stop();   
     }
 
