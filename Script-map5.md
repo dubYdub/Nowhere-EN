@@ -15,6 +15,18 @@ I can see light, I can feel it.
 
 
 线索2
+I once felt nowhere to go.
+
+Thought there is no place for me expect afterlife.
+
+or
+
+I once felt nowhere to go.
+
+No matter at school or at home.
+
+
+I hate this world much for its limit place. 
 
 我曾感到无路可走
 
@@ -31,7 +43,12 @@ I can see light, I can feel it.
 
 
 线索3
+I was totally wrong.
+My eyes were blinded by dilemma so I can never see the hope.
+My hands were bounded by grudge so I can never receive the help.
+My feets were tied by hate so I can never make the step.
 
+Time to free myself.
 但我又何尝不是禁锢着自己
 
 被乌瘴遮盖的双眼，看不见他人为我送来的微光
