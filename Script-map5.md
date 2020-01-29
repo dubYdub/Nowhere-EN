@@ -26,7 +26,7 @@ I once felt nowhere to go.
 No matter at school or at home. 
 
 
-I hate this world much for its limit place. 
+I hate this world much for its parsimony. 
 
 我曾感到无路可走
 
@@ -50,7 +50,7 @@ My eyes were blinded by dilemma so I can never see the hope.
 
 My hands were bounded by grudge so I can never receive the help.
 
-My feets were tied by hate so I can never make the step.
+My feets were tied by hate so I can never make the first step.
 
 Time to free myself.
 
@@ -68,11 +68,11 @@ Time to free myself.
 
 线索4
 
-Never feel so alive so that I can see my bright future.
+I never feel so alive.
 
 For those people taught me how to love,
 
-it's my turn to spread mine.
+thank you n I'll do the same.
 
 能活下来真好.......我暗自庆幸
 
