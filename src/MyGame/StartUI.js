@@ -31,7 +31,7 @@ StartUI.prototype.loadScene = function () {
 StartUI.prototype.unloadScene = function () {
 //    gEngine.Textures.unloadTexture(this.kLogo1);
     if (this.mNextScene == "PlayGame") {
-        gEngine.Core.startScene(new PlayGame());
+        gEngine.Core.startScene(new PlayGame3());
     } else if (this.mNextScene == "AuthorInfo") {
         gEngine.Core.startScene(new AuthorInfo());
     } else if (this.mNextScene == "GameRuleInfo") {
