@@ -43,6 +43,7 @@ I hate this world much for its limit place.
 
 
 线索3
+
 I was totally wrong.
 
 My eyes were blinded by dilemma so I can never see the hope.
@@ -66,6 +67,12 @@ Time to free myself.
 
 
 线索4
+
+Never feel so alive so that I can see my bright future.
+
+For those people taught me how to love,
+
+it's my turn to spread mine.
 
 能活下来真好.......我暗自庆幸
 
